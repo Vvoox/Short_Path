@@ -1,1 +1,2 @@
 # Short_Path
+This is my last project of third year in my university with my classmates, about graph theory : modelisation many real problems into a graphic schema with nodes and arrows : this project is about creating Nodes and between every nodes an arrow with it value , and the goal is to calculate the short path from Node X to Node Y , also you have to choose if you need to create your own graph or an alleatory graph. Enjoy it , if you have any question , contact me
