@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/close_red.png</file>
+        <file>imgs/close_white.png</file>
+        <file>imgs/plus.png</file>
+        <file>imgs/icon.png</file>
+        <file>imgs/save.png</file>
+        <file>imgs/edit.png</file>
+        <file>imgs/arrow-up.png</file>
+        <file>imgs/arrow-down.png</file>
+        <file>imgs/random.png</file>
+        <file>imgs/reset.png</file>
+    </qresource>
+</RCC>
